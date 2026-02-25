@@ -224,6 +224,11 @@ This project is open source and available under the MIT License.
 - The PyTorch team for pretrained models
 - The ImageNet team for the dataset
 
+## 📬 Contact
+
+- **Instagram**: [@itsprincepratap](https://www.instagram.com/itsprincepratap)
+- **Email**: [theprincepratap@gmail.com](mailto:theprincepratap@gmail.com)
+
 ---
 
 Made with ❤️ for AI Education
