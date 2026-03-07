@@ -1,6 +1,6 @@
 # 🧠 AlexNet Vision Explorer with AI 
 
-An interactive CNN visualization platform that allows you to explore how AlexNet processes images layer by layer cov , polling , activation function.
+An interactive CNN visualization platform that allows you to explore how AlexNet processes images layer by layer cov , polling , activation function student can learn easily by this animation.
 
 ![AlexNet Vision Explorer](https://img.shields.io/badge/Deep%20Learning-AlexNet-blue) ![React](https://img.shields.io/badge/Frontend-React-61DAFB) ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688) ![PyTorch](https://img.shields.io/badge/ML-PyTorch-EE4C2C)
 
